@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment1</title>
+    <style>
+        h3{ 
+           background-color:rgb(196, 18, 47);
+        }
+        h2{
+            background-color:  rgb(189, 42, 22);
+        }
+    </style>
+</head>
+<body>
+    <h3> I am starting to create a table</h3>
+    <hr>
+  <table>
+      <thead>
+    <tr>
+        <th>Name</th>
+        <th>E-Mail</th>
+        <th>Profile Picture</th>
+    </tr>
+     </thead>
+     <tbody>
+         <tr>
+         <td>Deepanshi</td>
+         <td>deepanshi123@gmail.com</td>
+         <td><img src="img/profilepic1" alt="this is an image" width="45"></td>
+        </tr>
+        <tr>
+        <td>Anjali</td>
+        <td>anjali456@gmail.com</td>
+        <td><img src="img/profilepic2" alt="this is an image" width="45"></td>
+        </tr>
+        <tr>
+        <td>Mansi</td>
+        <td>mansi789@gmail.com</td>
+        <td><img src="img/profilepic3" alt="this is an image" width="45"></td>
+         </tbody>
+        </table>
+                <hr>
+            <h3>I have completed the table</h3>
+        
+
+</body>
+</html>
