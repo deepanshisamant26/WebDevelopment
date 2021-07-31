@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background-color: #ffffff;
+    /* background-image: url(./images/image2.jpg);
+    background-position: right top; */
+    
+}
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+h3 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+
+.para{
+  color:black ;
+  background-color:aliceblue ;
+  color: rgb(34,67,98);
+  text-align: start;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:medium;
+}
+.para2{
+    color:black;
+    background-color:aliceblue;
+    text-align: start;
+     color: rgb(34,67,98);
+     font-family: 'Times New Roman', Times, serif;
+     font-size: medium;
+}
+.center
+{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h2,h3{
+  color: blue;
+  }
